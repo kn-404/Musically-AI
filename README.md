@@ -1,4 +1,6 @@
 # Musically-AI
+[Note: For longer documentation covering the whole journey of building this project, refer to this Medium article that I wrote: https://bit.ly/4a4DSPw ]
+
 Developed a Python pipeline using music21, mido, note_seq, and Magenta to analyze and generate melodies from keyboard MIDI data. Automated melody creation with neural RNNs (basic_RNN.mag) and visualized note frequency patterns using matplotlib. Explored how machine learning models produce musically coherent MIDI outputs.
 
 # Technologies Used
